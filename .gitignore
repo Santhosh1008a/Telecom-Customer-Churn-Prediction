@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Datasets
+# Dataset is tracked as per instructions
+
+# Models
+# /models/*.pkl
+
+# Outputs
+# /outputs/*.png
+# /screenshots/*.png
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
